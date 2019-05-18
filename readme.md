@@ -34,4 +34,4 @@ Abaixo está a conexão com o Json da API do instagram.
 
 Agora fique a vontade! 🙂
 
-http://micheldeziderio.com.br/exemplos/faleria-full/
+https://micheldeziderio.com.br/exemplos/galeria-full/
