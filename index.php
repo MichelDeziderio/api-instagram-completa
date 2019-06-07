@@ -192,9 +192,7 @@
 
 
 <?php
-    // LP 2910008048.1677ed0.903a7d3761ae4da2afb885d3fa5df161
-    // $access_token="5969286927.1677ed0.46e5b5fbd4fe442eb4a04adcfed49068";
-    $access_token="4378570628.1677ed0.bfec7b6237e44b319455bea1555f280d";    
+    $access_token="SEU TOKEN";    
     $photo_count=9;
     $json_link="https://api.instagram.com/v1/users/self/media/recent/?"; 
     $json_link.="access_token={$access_token}&count={$photo_count}"; $json = file_get_contents($json_link); $obj = json_decode($json, true, 512, JSON_BIGINT_AS_STRING);
