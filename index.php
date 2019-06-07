@@ -15,8 +15,6 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css" /> 
 
-<!-- <script src="https://keeperservicos.com.br/wp-content/themes/keeper_html/_assets/js/lazyload-images-post.js?ver=5.1.1"></script> -->
-
 <style>
 
     .slick-list.draggable {
